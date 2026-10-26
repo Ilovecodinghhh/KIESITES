@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+matplotlib
+SciencePlots==2.2.2

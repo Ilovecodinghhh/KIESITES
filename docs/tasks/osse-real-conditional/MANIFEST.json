@@ -1,0 +1,229 @@
+{
+  "version": "osse-real-conditional-v0.1",
+  "parent_commit": "89feaa6534145e6239bc0c78197f3d92f41d52b7",
+  "files": [
+    {
+      "path": "docs/tasks/osse-real-conditional/STATE.md",
+      "bytes": 1350,
+      "sha256": "7c9d2fb51852e0823d11705238329262592feae7afc8bfab7ee45a864897e6ec",
+      "git_blob_sha256": "7c9d2fb51852e0823d11705238329262592feae7afc8bfab7ee45a864897e6ec"
+    },
+    {
+      "path": "docs/tasks/osse-real-conditional/VERSION.md",
+      "bytes": 1149,
+      "sha256": "cdd8ac6297a9314facb4b4168136593dffa548ecb65425dc7b03643fd9e845c8",
+      "git_blob_sha256": "cdd8ac6297a9314facb4b4168136593dffa548ecb65425dc7b03643fd9e845c8"
+    },
+    {
+      "path": "docs/tasks/osse-real-feasibility/STATE.md",
+      "bytes": 1794,
+      "sha256": "3281f7e6632a5e95f273421e5efd784d04fed51fd2f601432ce5dcbaa6ee90ed",
+      "git_blob_sha256": "3281f7e6632a5e95f273421e5efd784d04fed51fd2f601432ce5dcbaa6ee90ed"
+    },
+    {
+      "path": "docs/tasks/osse-real-feasibility/check.py",
+      "bytes": 2700,
+      "sha256": "690d77b450d7c8e08b621e123b2a24e5bd4bfb366790fcba2340c99d6b14afaa",
+      "git_blob_sha256": "690d77b450d7c8e08b621e123b2a24e5bd4bfb366790fcba2340c99d6b14afaa"
+    },
+    {
+      "path": "docs/tasks/osse-real-feasibility/plot.py",
+      "bytes": 5396,
+      "sha256": "cd201b0906b639fbe7bdbdd1b8a6d5b69159ee59c17df3d7012b23eda0bbc8b8",
+      "git_blob_sha256": "cd201b0906b639fbe7bdbdd1b8a6d5b69159ee59c17df3d7012b23eda0bbc8b8"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/osse_conditional_requirements.py",
+      "bytes": 8882,
+      "sha256": "aa8f0b33da785621591051f21b0cd3cc30fb12e879e671f35672f7b1b71292c2",
+      "git_blob_sha256": "aa8f0b33da785621591051f21b0cd3cc30fb12e879e671f35672f7b1b71292c2"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/osse_corrected_relaxation.py",
+      "bytes": 3520,
+      "sha256": "9975050e017c318cf9d0105233aa72fb70cfea879318ea2e945825ab7f25cce9",
+      "git_blob_sha256": "9975050e017c318cf9d0105233aa72fb70cfea879318ea2e945825ab7f25cce9"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/osse_literature_correction.py",
+      "bytes": 5640,
+      "sha256": "8fbcd5934b9003a7401b4ea43170084ce8816bbc1426a5c3ae77cbcfa454a7b5",
+      "git_blob_sha256": "8fbcd5934b9003a7401b4ea43170084ce8816bbc1426a5c3ae77cbcfa454a7b5"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/osse_manuscript_core.py",
+      "bytes": 8011,
+      "sha256": "d97519c958ac0b92e47380ad4e39bfb1aad875d32c5f2a561d260a3687e9323c",
+      "git_blob_sha256": "d97519c958ac0b92e47380ad4e39bfb1aad875d32c5f2a561d260a3687e9323c"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/osse_manuscript_validation.py",
+      "bytes": 13804,
+      "sha256": "0335dfeeebb3113b0c71489cc9c930f425fc13bb1c25c0c41e500ee2371e871d",
+      "git_blob_sha256": "0335dfeeebb3113b0c71489cc9c930f425fc13bb1c25c0c41e500ee2371e871d"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/osse_real_conditional.py",
+      "bytes": 6953,
+      "sha256": "24903c554a013d88bc5d6d88df4e36b2b0c6ba5beaf6bead80d82e4c1a673e82",
+      "git_blob_sha256": "24903c554a013d88bc5d6d88df4e36b2b0c6ba5beaf6bead80d82e4c1a673e82"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/phase6_phasor.py",
+      "bytes": 48795,
+      "sha256": "c3663d8a659a4c20c08670d12e839ec0f85d04f26cb5d5dd9f1f6becdda6dcee",
+      "git_blob_sha256": "d0a7071a8467599a5885b0dcdf6cfa4e9e31aef5bc819bde7bebedb0bfed250d"
+    },
+    {
+      "path": "experiments/KIE_sites/analysis/report_osse_corrected_relaxation.py",
+      "bytes": 4225,
+      "sha256": "3498fc22e1888d5ad5ed19d4848480f2770e78bd8746263b620d0fc0911e88ae",
+      "git_blob_sha256": "3498fc22e1888d5ad5ed19d4848480f2770e78bd8746263b620d0fc0911e88ae"
+    },
+    {
+      "path": "experiments/KIE_sites/data/wetland_seasonality.json",
+      "bytes": 7133,
+      "sha256": "042da7304971fcac637ed718c58f3b1e4c29f01d214ce506f77d8b8f9ba5cb02",
+      "git_blob_sha256": "c7d9c28021bf2fe8dae339a600d546a41ff897a69e6671b87498396ab45dc47a"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_corrected_relaxation/REPORT.md",
+      "bytes": 4191,
+      "sha256": "ce8987a49e4e1bd7ab4c64b8f7a06aa1987c3dfc626d99683351f1f2e4a6fdd0",
+      "git_blob_sha256": "ce8987a49e4e1bd7ab4c64b8f7a06aa1987c3dfc626d99683351f1f2e4a6fdd0"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_corrected_relaxation/audit.json",
+      "bytes": 133,
+      "sha256": "a06d0289fa318fea89eeb313674ace087753642739b58e2950eae2ad42417d72",
+      "git_blob_sha256": "a06d0289fa318fea89eeb313674ace087753642739b58e2950eae2ad42417d72"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_corrected_relaxation/configurations.csv",
+      "bytes": 4278,
+      "sha256": "814d036f6e099301f1598c0534cfac704cc59b201a7b96e67806bc0f6aa62550",
+      "git_blob_sha256": "2435be111583c8701201990688cb9bd2e206dba64d6a6cb8e8583a2140e4de51"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_corrected_relaxation/confirmation.json",
+      "bytes": 2164295,
+      "sha256": "45f7296fe713ae88b88939ca35012a3b18cadf4d5401256a8ed6b5e4c5eda3e4",
+      "git_blob_sha256": "45f7296fe713ae88b88939ca35012a3b18cadf4d5401256a8ed6b5e4c5eda3e4"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_corrected_relaxation/frozen.json",
+      "bytes": 415531,
+      "sha256": "48dfb414a9d8fad73f9bce21ef0b4bb120d4377ba42e42c258509ee81baacfb6",
+      "git_blob_sha256": "48dfb414a9d8fad73f9bce21ef0b4bb120d4377ba42e42c258509ee81baacfb6"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_literature_correction/PARAMETERS.md",
+      "bytes": 4314,
+      "sha256": "033d576a4aae285b56c385da5dd92352d91bd0c2ee489b69b7e9dbad3eb17f64",
+      "git_blob_sha256": "033d576a4aae285b56c385da5dd92352d91bd0c2ee489b69b7e9dbad3eb17f64"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_literature_correction/REPORT.md",
+      "bytes": 2250,
+      "sha256": "37b5646b1b25ad3f57920af07a6438ce69bb5aa2e9f798b7cc1c82082b38a13e",
+      "git_blob_sha256": "37b5646b1b25ad3f57920af07a6438ce69bb5aa2e9f798b7cc1c82082b38a13e"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_conditional/REPORT.md",
+      "bytes": 5274,
+      "sha256": "b00dd2767149212b69e5f4a72fd4438593cd7a814adcdf50cf044085aff3e37b",
+      "git_blob_sha256": "b00dd2767149212b69e5f4a72fd4438593cd7a814adcdf50cf044085aff3e37b"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_conditional/conditional_real_ab.pdf",
+      "bytes": 37595,
+      "sha256": "70ea21f33ab6201e40e7816fbac9f14261b3c06eb430101fd1bae04e2d4b8a37",
+      "git_blob_sha256": "70ea21f33ab6201e40e7816fbac9f14261b3c06eb430101fd1bae04e2d4b8a37"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_conditional/conditional_real_ab.png",
+      "bytes": 258035,
+      "sha256": "18cec590e11bfa561b9c074ca60ef7cba8ceaa9ccde4225128a06800251632f0",
+      "git_blob_sha256": "18cec590e11bfa561b9c074ca60ef7cba8ceaa9ccde4225128a06800251632f0"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_conditional/conditional_real_ab.svg",
+      "bytes": 257515,
+      "sha256": "81d0faac7555f2bd9f76a178f1c3448fcd23d1c4aa623033cd53612b1890c064",
+      "git_blob_sha256": "81d0faac7555f2bd9f76a178f1c3448fcd23d1c4aa623033cd53612b1890c064"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_conditional/results.json",
+      "bytes": 59761,
+      "sha256": "8ba19548bf37e67ee452f148f867c5ea5457461965f71142e13f73bd130d85dc",
+      "git_blob_sha256": "8ba19548bf37e67ee452f148f867c5ea5457461965f71142e13f73bd130d85dc"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_conditional/scenarios.csv",
+      "bytes": 12058,
+      "sha256": "34aa422bc00d2f6f5ae0c76e6dd7df1617856a66075c1366056500aa79baaca7",
+      "git_blob_sha256": "34aa422bc00d2f6f5ae0c76e6dd7df1617856a66075c1366056500aa79baaca7"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_feasibility/REPORT.md",
+      "bytes": 9522,
+      "sha256": "fc9c1645adc2838935f9c601b94d7dc542e537b6f40550c91a52aa43b3d314e6",
+      "git_blob_sha256": "fc9c1645adc2838935f9c601b94d7dc542e537b6f40550c91a52aa43b3d314e6"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_feasibility/evidence.json",
+      "bytes": 2623,
+      "sha256": "13434ed8d9e543f40bb7236305d889166e382edaf4bc8367f47f171467c28e72",
+      "git_blob_sha256": "13434ed8d9e543f40bb7236305d889166e382edaf4bc8367f47f171467c28e72"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_feasibility/feasibility_gap.pdf",
+      "bytes": 35022,
+      "sha256": "6ccad149f783eeaa85878b6d32a940a61368340750a1625a10ec6974d1748b93",
+      "git_blob_sha256": "6ccad149f783eeaa85878b6d32a940a61368340750a1625a10ec6974d1748b93"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_feasibility/feasibility_gap.png",
+      "bytes": 390321,
+      "sha256": "716d8053499e97dc0c007a1f3e49043bfe1e472ef7d081805a06f6f901f17710",
+      "git_blob_sha256": "716d8053499e97dc0c007a1f3e49043bfe1e472ef7d081805a06f6f901f17710"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_real_feasibility/feasibility_gap.svg",
+      "bytes": 202567,
+      "sha256": "2a3e8f7f681203fd56f9685c175a634338d33a23be7eb083eaf6770a2a81b164",
+      "git_blob_sha256": "2a3e8f7f681203fd56f9685c175a634338d33a23be7eb083eaf6770a2a81b164"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_relaxed_constraints/ABSOLUTE_ERRORS.md",
+      "bytes": 7172,
+      "sha256": "e27b6c155e11910d8f37d7e708ee652ef6e473014bb20b835c625fe628a4f432",
+      "git_blob_sha256": "e27b6c155e11910d8f37d7e708ee652ef6e473014bb20b835c625fe628a4f432"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_relaxed_constraints/ABSOLUTE_ERRORS_LEGACY.md",
+      "bytes": 3068,
+      "sha256": "b55094132639897f383d636d576e0160f5f7ab2420ab0cb397e2cee5fbe5441a",
+      "git_blob_sha256": "b55094132639897f383d636d576e0160f5f7ab2420ab0cb397e2cee5fbe5441a"
+    },
+    {
+      "path": "experiments/KIE_sites/results/osse_relaxed_constraints/PARAMETER_PROVENANCE.md",
+      "bytes": 13640,
+      "sha256": "fdc60974ee9db5112139cb46f3946535d433f511bc9dd1decf29762f52effb72",
+      "git_blob_sha256": "fdc60974ee9db5112139cb46f3946535d433f511bc9dd1decf29762f52effb72"
+    },
+    {
+      "path": "experiments/KIE_sites/results/phase1_data/site_monthly_CGO.csv",
+      "bytes": 1564,
+      "sha256": "a060e6098758ec7e1ea2a4818f362f513f63c3be1b0ff0c8223d98d1f93064f3",
+      "git_blob_sha256": "fca5ae61ec38d812de2ade5020f88c073303730f0800914882c0b83f5b8c5273"
+    },
+    {
+      "path": "experiments/KIE_sites/results/phase1_data/site_monthly_SPO.csv",
+      "bytes": 1825,
+      "sha256": "5878f6ca60810e9e798b4905a37692ed76eae11402d0e199938da157ab7999df",
+      "git_blob_sha256": "852d522a5162daa7c9e51dc109b6920f0c406ae792b2c8e646648ca1fbcc7052"
+    }
+  ],
+  "hash_convention": "sha256 is working-tree bytes at capture; git_blob_sha256 is staged bytes after Git line-ending normalization. Original result input hashes refer to working-tree bytes."
+}

@@ -1,0 +1,88 @@
+{
+  "method": "Joint intercept, linear trend and annual sine/cosine; residual covariance divided by n-4",
+  "input_sha256": {
+    "experiments/KIE_sites/results/osse_corrected_relaxation/configurations.csv": "814d036f6e099301f1598c0534cfac704cc59b201a7b96e67806bc0f6aa62550",
+    "experiments/KIE_sites/results/phase1_data/site_monthly_SPO.csv": "5878f6ca60810e9e798b4905a37692ed76eae11402d0e199938da157ab7999df",
+    "experiments/KIE_sites/results/phase1_data/site_monthly_CGO.csv": "a060e6098758ec7e1ea2a4818f362f513f63c3be1b0ff0c8223d98d1f93064f3"
+  },
+  "sites": {
+    "SPO": {
+      "design": "all_x1.25",
+      "paired_months": 33,
+      "year_min": 2005,
+      "year_max": 2009,
+      "scales": {
+        "S": 0.0625,
+        "L": 0.15625,
+        "T": 0.09375,
+        "O": 0.0625
+      },
+      "largest_O_among_tested_passing_points": 0.0625,
+      "actual_residual_sigma_permil_C_D": [
+        0.07241387228710343,
+        2.925513724965641
+      ],
+      "target_residual_sigma_permil_C_D": [
+        0.004525867017943964,
+        0.18284460781035256
+      ],
+      "actual_to_target_sigma_ratio": 16.0,
+      "monthly_sample_counts": {
+        "d13C": {
+          "min": 2,
+          "median": 10.0,
+          "max": 14,
+          "single_sample_months": 0
+        },
+        "dD": {
+          "min": 1,
+          "median": 3.0,
+          "max": 8,
+          "single_sample_months": 9
+        }
+      },
+      "source_reference_to_target_sigma_ratio": 16.0,
+      "sink_KIE_reference_to_target_sigma_ratio": 6.4,
+      "lag_target_sigma_days": 1.4267578125
+    },
+    "CGO": {
+      "design": "all_x1.5",
+      "paired_months": 29,
+      "year_min": 2005,
+      "year_max": 2009,
+      "scales": {
+        "S": 0.1125,
+        "L": 0.24,
+        "T": 0.1125,
+        "O": 0.075
+      },
+      "largest_O_among_tested_passing_points": 0.075,
+      "actual_residual_sigma_permil_C_D": [
+        0.09576178877361369,
+        2.5077007358659937
+      ],
+      "target_residual_sigma_permil_C_D": [
+        0.0071821341580210266,
+        0.18807755518994954
+      ],
+      "actual_to_target_sigma_ratio": 13.333333333333334,
+      "monthly_sample_counts": {
+        "d13C": {
+          "min": 1,
+          "median": 4.0,
+          "max": 8,
+          "single_sample_months": 1
+        },
+        "dD": {
+          "min": 1,
+          "median": 2.0,
+          "max": 4,
+          "single_sample_months": 12
+        }
+      },
+      "source_reference_to_target_sigma_ratio": 8.88888888888889,
+      "sink_KIE_reference_to_target_sigma_ratio": 4.166666666666667,
+      "lag_target_sigma_days": 1.712109375
+    }
+  }
+}
